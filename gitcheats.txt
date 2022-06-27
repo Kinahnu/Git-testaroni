@@ -1,0 +1,9 @@
+git clone "url" - to copy github link
+git remote -v - 
+git add - to add file to git hub 
+git commit -m  - to commit a file to the git working tree
+git status - to check the status of if the files are up to date
+git log - shows log
+git push - pushes worked on projects to github as solidified 
+git push origin main - "" but is used if have multiple repositiories 
+ 
